@@ -4,5 +4,5 @@
 * Windows
 
 ## drawing
- ![图片名称](https://raw.githubusercontent.com/MartinxMax/STM32_Remote-control-/master/%C2%96%C2%96Demo_image/Wiring_diagram.png "Help")
+ ![图片名称](https://github.com/MartinxMax/89C51_C4/blob/master/%C2%96%C2%96Demo_image/C4.png?raw=true "Help")
 
